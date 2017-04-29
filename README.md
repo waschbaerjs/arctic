@@ -1,2 +1,5 @@
-# arctic
-A game about scientists ... somehow
+# Arctic Scientists
+
+A game about climate ... somehow.
+
+10h 
